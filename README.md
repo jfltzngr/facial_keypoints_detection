@@ -1,6 +1,6 @@
 # Facial Keypoint Detection
 
-I completed thsi project during the Udacity Computer Vision Nanodegree course. What follows is the original README by Udacity:
+I completed this project during the Udacity Computer Vision Nanodegree course. What follows is the original README by Udacity:
 
 ## Project Overview
 
