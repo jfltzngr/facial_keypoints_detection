@@ -1,5 +1,7 @@
 # Facial Keypoint Detection
 
+I completed thsi project during the Udacity Computer Vision Nanodegree course. What follows is the original README by Udacity:
+
 ## Project Overview
 
 This repository contains project files for Computer Vision, Nanodegree  via [Udacity](https://eu.udacity.com/course/computer-vision-nanodegree--nd891). It combine knowledge of Computer Vision Techniques and Deep learning Architectures to build a facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints on each face. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications (facial tracking, facial pose recognition, facial filters, and emotion recognition).
